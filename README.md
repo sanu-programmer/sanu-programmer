@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Face Recognition Software](https://github.com/sanu-programmer/Face_Recognition_Software.git)
 
-- 🌱 I’m currently learning **Java Script , Django , DSA(C++) **
+- 🌱 I’m currently learning **Java Script  , DSA(C++) **
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanu-programmer](https://github.com/sanu-programmer)
 
