@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanu Kumar</h1>
-<h3 align="center">A passionate Web developer and Competitive programmer from India </h3>
+<h3 align="center">A passionate Full Stack Web developer and Competitive programmer from India </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanu-programmer" alt="sanu-programmer" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Face Recognition Software](https://github.com/sanu-programmer/Face_Recognition_Software.git)
+- 🔭 I’m currently working on [MERN Stack Project]
 
-- 🌱 I’m currently learning **Java Script  , DSA(C++) **
+- 🌱 I’m currently learning **React  , DSA(C++) **
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanu-programmer](https://github.com/sanu-programmer)
 
